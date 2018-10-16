@@ -1,0 +1,49 @@
+Report for Institution Code UF-Archaeology, Resource north_midden
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 1172
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-07 ; Times: 5
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;North Midden&#34;" ; Times: 1
+	Query: "north midden" ; Times: 1
+	Query: "UF Environmental Archaeology North Midden" ; Times: 1
+	Query: "gbifdatasetid:e727fcd0-e519-4fcc-9710-082762b4c262" ; Times: 9
+	Query: "north midden florida" ; Times: 1
+	Query: "UF Environmental Archaeology North Midden Zooarchaeological Data" ; Times: 1
+	Query: "ff2ada6a-12f5-4f51-ac09-c31b45bfced4" ; Times: 1
+	Query: "gbifdatasetid:e727fcd0-e519-4fcc-9710-082762b4c262 isarch:1" ; Times: 2
+	Query: "North Midden" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1359 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "UF Environmental Archaeology North Midden Zooarchaeological Data" ; Times: 1
+
+
+End of report.
