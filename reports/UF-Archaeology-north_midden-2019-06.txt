@@ -1,0 +1,35 @@
+Report for Institution Code UF-Archaeology, Resource north_midden
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 21
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mercenaria" ; Times: 1
+	Query: "genus:Crassostrea specificepithet:virginica" ; Times: 1
+	Query: "genus:Leiostomus specificepithet:xanthurus" ; Times: 1
+	Query: "genus:Donax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1182 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
