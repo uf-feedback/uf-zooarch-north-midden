@@ -1,0 +1,32 @@
+Report for Institution Code UF-Archaeology, Resource north_midden
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 1200
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-23 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Crassostrea virginica mappable:1" ; Times: 16
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 596 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
